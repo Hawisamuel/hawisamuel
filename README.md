@@ -4,7 +4,7 @@ I build beautiful FullStack applications, streamline operations as a Virtual Ass
 
 **Three skills. One mission: Creating technology that works seamlessly and securely.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hawisamuel.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[Your Instagram URL](https://www.instagram.com/hawi_samuel_?igsh=MWc2bnc0NWdvMnRlMw%3D%3D&utm_source=qr)])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hawi-samuel-gedion])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[hawisamuel631@gmail.com)
 
@@ -78,8 +78,8 @@ Hello! I'm a Full Stack Developer, Virtual Assistant, and Cyber Security PKI Eng
 
 I'm always interested in new opportunities, collaborations, or a friendly chat!
 
-*   🔗 **LinkedIn:** [linkedin.com/in/your-profile]([Your LinkedIn URL])
-*   📧 **Email:** [Your Email](mailto:[Your Email])
+*   🔗 **LinkedIn:** [linkedin.com/in/your-profile]([www.linkedin.com/in/hawi-samuel-gedion])
+*   📧 **Email:** [Your Email](mailto:[hawisamuel631@gmail.com])
 
 ---
 
