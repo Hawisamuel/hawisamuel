@@ -4,7 +4,7 @@ I build beautiful FullStack applications, streamline operations as a Virtual Ass
 
 **Three skills. One mission: Creating technology that works seamlessly and securely.**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[www.instagram.com/hawi_samuel_]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hawi_samuel_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hawi-samuel-gedion])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[hawisamuel631@gmail.com)
 
