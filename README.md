@@ -7,6 +7,11 @@
   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝   
 -->
 
+<!-- BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Hawi%20Samuel&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%"/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hawi+Samuel;Full+Stack+Developer;Virtual+Assistant;PKI+Engineer" alt="Typing SVG" />
 
@@ -47,6 +52,7 @@
 </div>
 
 ---
+
 
 ## 👩‍💻 About Me
 
@@ -120,8 +126,8 @@ My journey took an exciting turn during my internship at **INSA (Information Net
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=hawisamuel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
 </div>
 
 <div align="center">
@@ -130,7 +136,7 @@ My journey took an exciting turn during my internship at **INSA (Information Net
 
 ### 📈 Contribution Graph
 
-[![Hawi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true)](https://github.com/hawisamuel)
+[![Hawi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true&custom_title=Hawi's%20Contribution%20Graph)](https://github.com/hawisamuel)
 
 ---
 
@@ -153,9 +159,6 @@ Gained hands-on experience in:
 - Real-world security infrastructure
 - PKI domain operations and development
 </details>
-
----
-
 
 ---
 
