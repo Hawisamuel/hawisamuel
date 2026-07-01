@@ -66,7 +66,7 @@ My journey took an exciting turn during my internship at **INSA (Information Net
 
 | Role | What It Means |
 | :--- | :--- |
-| 💻 **Full Stack Developer** | Build beautiful, responsive web applications |
+| 💻 **Full Stack Developer** | Build beautiful, Interactive and responsive web applications |
 | 📋 **Virtual Assistant** | Streamline operations and boost productivity |
 | 🔐 **PKI Engineer** | Secure digital identities and protect sensitive data |
 
