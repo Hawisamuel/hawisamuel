@@ -32,9 +32,7 @@
 
   <br/>
 
-  <a href="https://hawisamuel.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/hawi-samuel-gedion">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -168,7 +166,7 @@ I'm always open to exciting opportunities, collaborations, or just a friendly ch
 
 | Platform | Link |
 | :--- | :--- |
-| 🌐 **Portfolio** | [hawisamuel.github.io/portfolio/](https://hawisamuel.github.io/portfolio/) |
+
 | 🔗 **LinkedIn** | [linkedin.com/in/hawi-samuel-gedion](https://linkedin.com/in/hawi-samuel-gedion) |
 | 📷 **Instagram** | [@hawi_samuel_](https://instagram.com/hawi_samuel_) |
 | 📧 **Email** | [hawisamuel631@gmail.com](mailto:h awisamuel631@gmail.com) |
