@@ -34,8 +34,8 @@
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> About Me</h2>
 
-<!-- THIS IS THE FIX - Using <pre> tag instead of triple backticks -->
-<pre align="center" style="background: #0D1117; padding: 20px; border-radius: 12px; border: 1px solid #00D4FF; color: #E6EDF3; font-family: 'Fira Code', monospace;">
+<!-- FIXED: Using plain GitHub-flavored markdown instead of HTML with styles -->
+<pre align="center">
 const hawi = {
     education: "Arba Minch University",
     major: "Computer Science",
