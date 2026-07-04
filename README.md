@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:00D4FF,100:000000&text=HAWI%20SAMUEL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20%7C%20Virtual%20Assistant%20%7C%20PKI%20Engineer%20⚡&descSize=20&descColor=00D4FF&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:FF6B00,100:000000&text=HAWI%20SAMUEL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20%7C%20Virtual%20Assistant%20%7C%20PKI%20Engineer%20⚡&descSize=20&descColor=FF6B00&descAlignY=65" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -176,7 +176,7 @@
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=FF6B81&style=for-the-badge"/>
 </div>
 
 ---
@@ -192,15 +192,12 @@
 ---
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Snake</h2>
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+  </picture>
 </div>
 
 ---
