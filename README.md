@@ -192,15 +192,12 @@
 ---
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Snake</h2>
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/snake-dark.svg">
+  </picture>
 </div>
 
 ---
