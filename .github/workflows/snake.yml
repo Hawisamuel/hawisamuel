@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
-  workflow_dispatch:      # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,7 +20,8 @@ jobs:
         with:
           github_user_name: hawisamuel
           outputs: |
-            pacman-contribution-graph.svg?palette=github-dark
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
