@@ -36,6 +36,7 @@
 
 <!-- FIXED: Using plain GitHub-flavored markdown instead of HTML with styles -->
 <pre align="center">
+```javascript
 const hawi = {
     education: "Arba Minch University",
     major: "Computer Science",
@@ -45,6 +46,7 @@ const hawi = {
     currentlyLearning: ["Docker", "Kubernetes", "Cloud Deployment", "UI/UX Design"],
     funFact: "I bridge the gap between frontend aesthetics and enterprise-grade security! 🔐"
 };
+```
 </pre>
 
 <p align="center">
