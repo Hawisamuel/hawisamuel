@@ -39,11 +39,10 @@
     <td>
       <ul>
         <li><strong>🎓 Education:</strong> Arba Minch University</li>
-        <li><strong>📚 Major:</strong> Computer Science</li>
+        <li><strong>📚 Major:</strong> Software Engineering</li>
         <li><strong>📍 Location:</strong> Ethiopia 🇪🇹</li>
         <li><strong>💼 Roles:</strong> Full Stack Developer · Virtual Assistant · PKI Engineer</li>
         <li><strong>❤️ Passions:</strong> Web Development · Cybersecurity · Digital Identity Management</li>
-        <li><strong>📖 Currently Learning:</strong> Docker · Kubernetes · Cloud Deployment · UI/UX Design</li>
         <li><strong>🎯 Fun Fact:</strong> I bridge the gap between frontend aesthetics and enterprise-grade security! 🔐</li>
       </ul>
     </td>
@@ -105,6 +104,8 @@
 <h3>🗄️ Databases</h3>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
