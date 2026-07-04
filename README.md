@@ -165,19 +165,26 @@
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
 <div align="center">
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  
-  <br/><br/>
-  
-  <!-- GitHub Streak Stats (WORKING VERSION) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=003B44&sideLabels=003B44&dates=003B44"/>
-  
-  <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=003B44&sideLabels=003B44&dates=003B44"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
