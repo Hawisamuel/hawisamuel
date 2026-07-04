@@ -34,20 +34,21 @@
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> About Me</h2>
 
-<!-- FIXED: Using plain GitHub-flavored markdown instead of HTML with styles -->
-<pre align="center">
-```javascript
-const hawi = {
-    education: "Arba Minch University",
-    major: "Computer Science",
-    location: "Ethiopia 🇪🇹",
-    roles: ["Full Stack Developer", "Virtual Assistant", "PKI Engineer"],
-    passions: ["Web Development", "Cybersecurity", "Digital Identity Management"],
-    currentlyLearning: ["Docker", "Kubernetes", "Cloud Deployment", "UI/UX Design"],
-    funFact: "I bridge the gap between frontend aesthetics and enterprise-grade security! 🔐"
-};
-```
-</pre>
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <ul>
+        <li><strong>🎓 Education:</strong> Arba Minch University</li>
+        <li><strong>📚 Major:</strong> Computer Science</li>
+        <li><strong>📍 Location:</strong> Ethiopia 🇪🇹</li>
+        <li><strong>💼 Roles:</strong> Full Stack Developer · Virtual Assistant · PKI Engineer</li>
+        <li><strong>❤️ Passions:</strong> Web Development · Cybersecurity · Digital Identity Management</li>
+        <li><strong>📖 Currently Learning:</strong> Docker · Kubernetes · Cloud Deployment · UI/UX Design</li>
+        <li><strong>🎯 Fun Fact:</strong> I bridge the gap between frontend aesthetics and enterprise-grade security! 🔐</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <strong>🌟 Building technology that works seamlessly and securely</strong>
