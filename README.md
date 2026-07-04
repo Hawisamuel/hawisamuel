@@ -165,31 +165,18 @@
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>📊 Total Contributions</strong><br/>
-        <span style="font-size: 28px; color: #00D4FF;">168+</span><br/>
-        <sub>Oct 26, 2024 - Present</sub>
-      </td>
-      <td align="center">
-        <strong>🔥 Current Streak</strong><br/>
-        <span style="font-size: 28px; color: #00D4FF;">15</span><br/>
-        <sub>Jun 20 - Jul 4</sub>
-      </td>
-      <td align="center">
-        <strong>🏆 Longest Streak</strong><br/>
-        <span style="font-size: 28px; color: #00D4FF;">15</span><br/>
-        <sub>Jun 20 - Jul 4</sub>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Most reliable GitHub stats API -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+  <br/><br/>
+  
+  <!-- Alternative streak API -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
 </div>
 
 ---
