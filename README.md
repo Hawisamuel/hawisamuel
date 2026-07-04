@@ -176,7 +176,7 @@
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=#FF6B81&style=for-the-badge"/>
 </div>
 
 ---
