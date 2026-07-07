@@ -161,19 +161,28 @@
 </div>
 
 ---
+
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
+
 <div align="center">
-![](https://github-readme-stats.shion.dev/api?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&border_color=00D4FF)
+
+<img src="https://github-readme-stats.shion.dev/api?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&border_color=00D4FF" />
+
 <br/>
-![](https://streak-stats.demolab.com/?user=hawisamuel&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=6E7681&border=00D4FF)
+
+<img src="https://streak-stats.demolab.com/?user=hawisamuel&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=6E7681&border=00D4FF" />
+
 <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_color=00D4FF)
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_color=00D4FF" />
+
 <br/>
+
 <!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" />
+
 </div>
+
 ---
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Graph</h2>
