@@ -161,40 +161,46 @@
 </div>
 
 ---
-
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
-<!-- Summary Cards - Most Reliable -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawisamuel&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawisamuel&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawisamuel&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawisamuel&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawisamuel&theme=tokyonight&utcOffset=3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Fallback Stats -->
 <br/>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
-</p>
+
+![](https://streak-stats.demolab.com/?user=hawisamuel&theme=gruvbox_light&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
 
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF6B00&style=for-the-badge" />
 </p>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=hawisamuel&theme=gruvbox_light&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF6B00&style=for-the-badge" />
+
+</div>
 ---
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Graph</h2>
