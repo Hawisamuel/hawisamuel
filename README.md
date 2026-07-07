@@ -164,46 +164,38 @@
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>📊 Total Contributions</strong><br/>
-        <span style="font-size: 28px; color: #FF6B00;">168+</span><br/>
-        <sub>Oct 26, 2024 - Present</sub>
-      </td>
-      <td align="center">
-        <strong>🔥 Current Streak</strong><br/>
-        <span style="font-size: 28px; color: #FF6B00;">15</span><br/>
-        <sub>Jun 20 - Jul 4</sub>
-      </td>
-      <td align="center">
-        <strong>🏆 Longest Streak</strong><br/>
-        <span style="font-size: 28px; color: #FF6B00;">15</span><br/>
-        <sub>Jun 20 - Jul 4</sub>
-      </td>
-      <td align="center">
-        <strong>👀 Profile Views</strong><br/>
-        <span style="font-size: 28px; color: #FF6B00;">157</span><br/>
-        <sub>Total views</sub>
-      </td>
-    </tr>
-  </table>
+<!-- Complete Stats Dashboard -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawisamuel&theme=tokyonight" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hawisamuel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawisamuel&theme=tokyonight" />
+</p>
 
-  <!-- Fallback: These may load if services are back up -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=FF6B81&style=for-the-badge"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawisamuel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawisamuel&theme=tokyonight&utcOffset=3" />
+</p>
+
+<br/>
+
+<!-- Standard Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true&area=true&custom_title=Hawi's%20Contribution%20Activity" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF6B00&style=for-the-badge" />
+</p>
 
 ---
 
