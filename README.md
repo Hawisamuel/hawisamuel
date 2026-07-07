@@ -1,281 +1,235 @@
 <!--
-  ██╗  ██╗ █████╗ ██╗    ██╗██╗
-  ██║  ██║██╔══██╗██║    ██║██║
-  ███████║███████║██║ █╗ ██║██║
-  ██╔══██║██╔══██║██║███╗██║██║
-  ██║  ██║██║  ██║╚███╔███╔╝██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝
+  ██╗  ██╗ █████╗ ██╗    ██╗██╗    ███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗
+  ██║  ██║██╔══██╗██║    ██║██║    ██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║
+  ███████║███████║██║ █╗ ██║██║    ███████╗███████║██╔████╔██║██║   ██║█████╗  ██║
+  ██╔══██║██╔══██║██║███╗██║██║    ╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══╝  ██║
+  ██║  ██║██║  ██║╚███╔███╔╝██║    ███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗███████╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 -->
 
-<!-- DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:FF6B00,100:000000&text=HAWI%20SAMUEL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20%7C%20Virtual%20Assistant%20%7C%20PKI%20Engineer%20⚡&descSize=20&descColor=FF6B00&descAlignY=65" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:302B63,100:00D4FF&text=HAWI%20SAMUEL&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PKI%20Engineer%20%7C%20Virtual%20Assistant&descSize=19&descColor=00D4FF&descAlignY=58" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hawi+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;PKI+%26+Cybersecurity+Engineer+%F0%9F%94%90;I+build+secure%2C+beautiful+digital+experiences" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hawi-samuel-gedion"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/hawi_samuel_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:hawisamuel631@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hawisamuel.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D4FF"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=00D4FF&style=flat-square"/>
+
 </div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+folks!;I'm+Hawi+Samuel;Full+Stack+Developer;Virtual+Assistant;PKI+Engineer;Building+Secure+Digital+Solutions!" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-brightgreen?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/hawi-samuel-gedion">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/hawi_samuel_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:hawisamuel631@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<br/>
 
----
-
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> About Me</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> About Me
 
 <table align="center" width="100%">
-  <tr>
-    <td>
-      <ul>
-        <li><strong>🎓 Education:</strong> Arba Minch University</li>
-        <li><strong>📚 Major:</strong> Software Engineering</li>
-        <li><strong>📍 Location:</strong> Ethiopia 🇪🇹</li>
-        <li><strong>💼 Roles:</strong> Full Stack Developer · Virtual Assistant · PKI Engineer</li>
-        <li><strong>❤️ Passions:</strong> Web Development · Cybersecurity · Digital Identity Management</li>
-        <li><strong>🎯 Fun Fact:</strong> I bridge the gap between frontend aesthetics and enterprise-grade security! 🔐</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="center">
-  <strong>🌟 Building technology that works seamlessly and securely</strong>
-</p>
+```yaml
+name: Hawi Samuel
+role: [Full Stack Developer, PKI Engineer, Virtual Assistant]
+location: Addis Ababa, Ethiopia 🇪🇹
+education: Arba Minch University — Management (Distance)
+current_focus:
+  - Building a full-stack Portfolio CMS (React + Spring Boot + Supabase)
+  - PKI Operations & Certificate Management @ INSA
+passions:
+  - Secure system design & digital identity
+  - Crafting dark, techy, pixel-perfect UI
+fun_fact: "I bridge frontend aesthetics with enterprise-grade security 🔐"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://i.ibb.co/dksBBpP/coding-gif.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Tech Stack</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-<div align="center" style="background:#1f883d;padding:25px;border-radius:18px;">
-<h3>💻 Languages</h3>
+**Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
-</div>
-</td>
 
-<td width="33%">
-<div align="center" style="background:#1f6feb;padding:25px;border-radius:18px;">
-<h3>⚛️ Frontend</h3>
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-</td>
+<br/><br/>
 
-<td width="33%">
-<div align="center" style="background:#f0883e;padding:25px;border-radius:18px;">
-<h3>🚀 Backend</h3>
+**Frontend**
 <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-</div>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/React-0F0C29?style=for-the-badge&logo=react&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/React_Native-0F0C29?style=for-the-badge&logo=react&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/Bootstrap-0F0C29?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/jQuery-0F0C29?style=for-the-badge&logo=jquery&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/Figma-0F0C29?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
-<tr>
-<td width="33%">
-<div align="center" style="background:#f7df1e;padding:25px;border-radius:18px;">
-<h3>🗄️ Databases</h3>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
-</td>
+<br/><br/>
 
-<td width="33%">
-<div align="center" style="background:#f85149;padding:25px;border-radius:18px;">
-<h3>🛠️ Tools</h3>
+**Backend & Auth**
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</div>
-</td>
+<img src="https://img.shields.io/badge/Spring_Boot-0F0C29?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Node.js-0F0C29?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-0F0C29?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-0F0C29?style=for-the-badge&logo=jsonwebtokens&logoColor=00D4FF"/>
 
-<td width="33%">
-<div align="center" style="background:#a371f7;padding:25px;border-radius:18px;">
-<h3>📚 Learning</h3>
+<br/><br/>
+
+**Databases**
 <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/PostgreSQL-0F0C29?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/Supabase-0F0C29?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/MySQL-0F0C29?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MongoDB-0F0C29?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/SQLite-0F0C29?style=for-the-badge&logo=sqlite&logoColor=07405E"/>
+<img src="https://img.shields.io/badge/Firebase-0F0C29?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-0F0C29?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-0F0C29?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Docker-0F0C29?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Android-0F0C29?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+
+<br/><br/>
+
+**Currently Exploring**
+<br/>
+<img src="https://img.shields.io/badge/Kubernetes-0F0C29?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/AWS-0F0C29?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Professional Experience</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Professional Experience
 
 <div align="center">
-
-### 🔐 INSA - PKI Operations & Development Intern
-
 <table>
 <tr>
-<td>
+<td width="100%">
 
-**Key Contributions:**
-- 🛡️ Managed digital certificates and encryption protocols
-- 🔑 Implemented secure identity management solutions
-- 🏗️ Contributed to real-world security infrastructure
-- 📊 Gained hands-on experience in PKI domain operations
+### 🔐 PKI Operations & Development Intern — **INSA**
+*Information Network Security Administration, Addis Ababa*
+
+- 🛡️ Manage digital certificates, encryption protocols & HSM operations
+- 🔑 Build role-based, multi-user certificate management systems
+- 🏗️ Contribute to national-scale security infrastructure
+- 📊 Hands-on experience across the full PKI lifecycle
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
-
-<div align="center">
-  <!-- Most reliable GitHub stats API -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <!-- Alternative streak API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=FF6B81&style=for-the-badge"/>
-</div>
-
----
-
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Graph</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> GitHub Analytics
 
 <div align="center">
 
-[![Hawi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true&custom_title=Hawi's%20Contribution%20Graph)](https://github.com/hawisamuel)
+<img src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+
+<br/>
+
+[![Hawi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&custom_title=Hawi's%20Contribution%20Graph)](https://github.com/hawisamuel)
 
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Contribution Pac-Man</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg" alt="Pac-Man" />
+    <img src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%"/>
   </picture>
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Certifications</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Certifications
 
 <div align="center">
 
-| 🎓 | Certification |
-|:---:|:---|
-| 🎯 | **Full Stack Web Development Certification** (2025) |
-| 🎨 | **UI/UX Design Certification** (2025) |
-| 📱 | **Mobile App Development Certification** (2026) |
+| | Certification | Year |
+|:---:|:---|:---:|
+| 🎯 | **Full Stack Web Development Certification** | 2025 |
+| 🎨 | **UI/UX Design Certification** | 2025 |
+| 📱 | **Mobile App Development Certification** | 2026 |
 
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Random Dev Quote</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Words to Build By
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_bg_color=0D1117&quote_color=00D4FF&author_color=C9D1D9&border_color=00D4FF"/>
-
 </div>
 
 ---
 
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> Let's Connect!</h2>
+## <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28"/> Let's Connect
 
 <div align="center">
-
-### 🌟 Let's build something amazing together!
 
 | Platform | Link |
 |:---|:---|
-| 🔗 **LinkedIn** | [linkedin.com/in/hawi-samuel-gedion](https://linkedin.com/in/hawi-samuel-gedion) |
-| 📷 **Instagram** | [@hawi_samuel_](https://instagram.com/hawi_samuel_) |
-| 📧 **Email** | [hawisamuel631@gmail.com](mailto:hawisamuel631@gmail.com) |
+| 🔗 LinkedIn | [linkedin.com/in/hawi-samuel-gedion](https://linkedin.com/in/hawi-samuel-gedion) |
+| 📷 Instagram | [@hawi_samuel_](https://instagram.com/hawi_samuel_) |
+| 📧 Email | [hawisamuel631@gmail.com](mailto:hawisamuel631@gmail.com) |
+| 🌐 Portfolio | [hawisamuel.github.io/portfolio](https://hawisamuel.github.io/portfolio) |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawi-samuel-gedion)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hawisamuel631@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hawisamuel)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawi-samuel-gedion)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hawisamuel631@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hawisamuel)
 
 </div>
 
----
-
 <details>
-<summary><strong>🎮 Easter Egg: Click to reveal a secret message</strong></summary>
+<summary align="center"><strong>🎮 Click to reveal a secret</strong></summary>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
-  <br/>
-  <p>
-    <strong>🎉 Congratulations! You found the secret!</strong>
-  </p>
-  <p>
-    <em>"The best way to predict the future is to create it." — Peter Drucker</em>
-  </p>
-  <p>
-    Thank you for taking the time to explore my profile! 🚀
-  </p>
-  <p>
-    <strong>Three skills. One mission: Creating technology that works seamlessly and securely. 🔐</strong>
-  </p>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+  <p><strong>🎉 You found it!</strong></p>
+  <p><em>"The best way to predict the future is to create it." — Peter Drucker</em></p>
+  <p><strong>Three roles. One mission: technology that works seamlessly and securely. 🔐</strong></p>
 </div>
 </details>
 
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00D4FF,100:000000&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 <sub>✨ Crafted with ❤️ by Hawi Samuel ✨</sub>
-
 </div>
