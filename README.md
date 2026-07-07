@@ -171,8 +171,8 @@
 
 <br/>
 
-<!-- Streak Stats Card - Custom Dark -->
-<img src="https://streak-stats.demolab.com/?user=hawisamuel&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=8B949E&currStreakNum=FFFFFF&sideLabels=8B949E&dates=6E7681&border=30363D" />
+<!-- Streak Stats Card - Fixed -->
+<img src="https://streak-stats.demolab.com/?user=hawisamuel&theme=github-dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=8B949E&currStreakNum=FFFFFF&sideLabels=8B949E&dates=6E7681&border=30363D" />
 
 <br/>
 
