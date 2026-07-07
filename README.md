@@ -182,7 +182,7 @@
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FDB813&style=for-the-badge" />
 
 </div>
 
