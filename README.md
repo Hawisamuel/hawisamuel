@@ -164,7 +164,7 @@
 
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
-<!-- Complete Stats Dashboard -->
+<!-- Summary Cards - Most Reliable -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawisamuel&theme=tokyonight" />
 </p>
@@ -179,17 +179,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hawisamuel&theme=tokyonight&utcOffset=3" />
 </p>
 
-<br/>
-
-<!-- Standard Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Contribution Graph -->
+<!-- Fallback Stats -->
+<br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hawisamuel&theme=tokyo-night&hide_border=true&area=true&custom_title=Hawi's%20Contribution%20Activity" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- Profile Views -->
