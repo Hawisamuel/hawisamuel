@@ -162,44 +162,17 @@
 
 ---
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
-
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
-
+![](https://github-readme-stats.shion.dev/api?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&border_color=00D4FF)
 <br/>
-
-![](https://streak-stats.demolab.com/?user=hawisamuel&theme=gruvbox_light&hide_border=false)
-
+![](https://streak-stats.demolab.com/?user=hawisamuel&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=6E7681&border=00D4FF)
 <br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_color=00D4FF)
 <br/>
-
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF6B00&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" />
 </p>
-<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
-
-<br/>
-
-![](https://streak-stats.demolab.com/?user=hawisamuel&theme=gruvbox_light&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF6B00&style=for-the-badge" />
-
 </div>
 ---
 
