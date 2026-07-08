@@ -165,18 +165,25 @@
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"/> GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Most reliable GitHub stats API -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawisamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawisamuel&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <!-- Alternative streak API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawisamuel&theme=tokyonight&hide_border=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile%20Views&color=FF6B81&style=for-the-badge"/>
+
+<!-- GitHub Stats Card - GitHub Dark -->
+<img src="https://github-readme-stats.shion.dev/api?username=hawisamuel&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4FF&text_color=8B949E&border_color=30363D" />
+
+<br/>
+
+<!-- Streak Stats Card - Fixed -->
+<img src="https://streak-stats.demolab.com/?user=hawisamuel&theme=github-dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=8B949E&currStreakNum=FFFFFF&sideLabels=8B949E&dates=6E7681&border=30363D" />
+
+<br/>
+
+<!-- Top Languages Card - GitHub Dark -->
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hawisamuel&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&border_color=30363D" />
+
+<br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF7518&style=for-the-badge" />
+
 </div>
 
 ---
