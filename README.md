@@ -257,23 +257,37 @@
 ---
 
 <details>
-<summary><strong>🎮 Easter Egg: Click to reveal a secret message</strong></summary>
+<summary><strong>🕵️ Psst... click here if you dare to uncover Hawi's secret lair</strong></summary>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220"/>
+  <br/><br/>
+  <p><strong>🎉 Whoa, an actual curious human! Achievement unlocked: Secret Finder 🏆</strong></p>
+  <p>
+    <em>"Talk is cheap. Show me the code."</em> — Linus Torvalds
+  </p>
   <br/>
-  <p>
-    <strong>🎉 Congratulations! You found the secret!</strong>
-  </p>
-  <p>
-    <em>"The best way to predict the future is to create it." — Peter Drucker</em>
-  </p>
-  <p>
-    Thank you for taking the time to explore my profile! 🚀
-  </p>
-  <p>
-    <strong>Three skills. One mission: Creating technology that works seamlessly and securely. 🔐</strong>
-  </p>
+  <table>
+    <tr>
+      <td>🐛</td>
+      <td>Bugs squashed today: <strong>∞ - 1</strong></td>
+    </tr>
+    <tr>
+      <td>☕</td>
+      <td>Coffee-to-commit ratio: <strong>1:1</strong></td>
+    </tr>
+    <tr>
+      <td>🔐</td>
+      <td>Certificates issued without breaking prod: <strong>Most of them</strong></td>
+    </tr>
+    <tr>
+      <td>🌙</td>
+      <td>Favorite debugging hour: <strong>2:47 AM</strong></td>
+    </tr>
+  </table>
+  <br/>
+  <p><strong>Three roles, one villain-origin-story mission: build tech so secure even I forget my own passwords. 🔐😅</strong></p>
+  <p>Thanks for scrolling this far — you've officially earned a virtual high-five. ✋🚀</p>
 </div>
 </details>
 
