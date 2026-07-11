@@ -1,3 +1,4 @@
+
 <!--
   ██╗  ██╗ █████╗ ██╗    ██╗██╗
   ██║  ██║██╔══██╗██║    ██║██║
@@ -6,6 +7,10 @@
   ██║  ██║██║  ██║╚███╔███╔╝██║
   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝
 -->
+<!-- PROFILE VIEWS -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=00D4FF&style=flat-square" />
+</div>
 
 <!-- DYNAMIC HEADER -->
 <div align="center">
