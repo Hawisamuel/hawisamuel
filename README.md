@@ -260,12 +260,12 @@
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>☕ Quick quiz: what language does Hawi prefer the most?</strong></p>
+  <p><strong>☕ Quick quiz: what language does Hawi love the most?</strong></p>
   <br/>
-  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://giphy.com/gifs/starbucks-coffee-cheers-holiday-FY8lHvdsT68NcXqPNe"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdyM3A2OW5tYThjeW4xa2wxZTBrb2prbzNxc3AyNDRucm5kbW03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxPGLrfzBRV3CQKxF/giphy.gif"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViNjFmZmNzOXBjdjkwczFqeWlwMXptbGtxZ3ppc2c5OGp0dW9yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JURd76FU0pwvkC0lQU/giphy.gif"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0dGtzcXZ4Njl2d2tleHJycWx5dXQ2Y3gydDBvNGdqa2kybXBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LPQsHYioyIjVaIFOD/giphy.gif"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtbHF6Nml4eHR6NXNuNTNmbjB4eTVycGxmem52bG84ZWVwdXZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ks6QHk9uhO543kLVHJ/giphy.gif"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <br/><br/>
   <p><em>(click one and find out ☝️)</em></p>
 </div>
