@@ -9,7 +9,7 @@
 -->
 <!-- PROFILE VIEWS -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF7518&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile+Views&color=00D4FF&style=for-the-badge&labelColor=0D1117&abbreviated=true" alt="Profile Views"/>
 </div>
 
 <!-- DYNAMIC HEADER -->
