@@ -9,8 +9,7 @@
 -->
 <!-- PROFILE VIEWS -->
 <div align="left">
-  <img src="https://raw.githubusercontent.com/hawisamuel/hawisamuel/main/assets/views_glow_frame_only.svg" height="70"/>
-  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile+Views&color=00D4FF&style=for-the-badge&labelColor=0D1117" height="35"/>
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile+Views&color=777BB4&style=for-the-badge&labelColor=0D1117" height="35"/>
 </div>
 
 <!-- DYNAMIC HEADER -->
