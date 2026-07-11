@@ -257,11 +257,10 @@
 ---
 
 <details>
-<details>
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>☕ Quick quiz: what language does Hawi love the most?</strong></p>
+  <p><strong>☕ Quick quiz: what language does Hawi prefer the most?</strong></p>
   <br/>
   <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://giphy.com/gifs/starbucks-coffee-cheers-holiday-FY8lHvdsT68NcXqPNe"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
