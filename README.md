@@ -257,37 +257,16 @@
 ---
 
 <details>
-<summary><strong>🕵️ Psst... click here if you dare to uncover Hawi's secret lair</strong></summary>
+<summary><strong>🕵️ Psst... wanna know a secret? (choose wisely)</strong></summary>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220"/>
+  <p><strong>Pick a button. Choose your fate. 😈</strong></p>
+  <br/>
+  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20The%20Good%20Option-00D4FF?style=for-the-badge&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/😏%20The%20Sus%20Option-FF6B00?style=for-the-badge&logoColor=white"/></a>
   <br/><br/>
-  <p><strong>🎉 Whoa, an actual curious human! Achievement unlocked: Secret Finder 🏆</strong></p>
-  <p>
-    <em>"Talk is cheap. Show me the code."</em> — Linus Torvalds
-  </p>
-  <br/>
-  <table>
-    <tr>
-      <td>🐛</td>
-      <td>Bugs squashed today: <strong>∞ - 1</strong></td>
-    </tr>
-    <tr>
-      <td>☕</td>
-      <td>Coffee-to-commit ratio: <strong>1:1</strong></td>
-    </tr>
-    <tr>
-      <td>🔐</td>
-      <td>Certificates issued without breaking prod: <strong>Most of them</strong></td>
-    </tr>
-    <tr>
-      <td>🌙</td>
-      <td>Favorite debugging hour: <strong>2:47 AM</strong></td>
-    </tr>
-  </table>
-  <br/>
-  <p><strong>Three roles, one villain-origin-story mission: build tech so secure even I forget my own passwords. 🔐😅</strong></p>
-  <p>Thanks for scrolling this far — you've officially earned a virtual high-five. ✋🚀</p>
+  <p><em>(one of these leads somewhere real. the other one... doesn't. good luck 🎲)</em></p>
 </div>
 </details>
 
