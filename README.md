@@ -260,13 +260,13 @@
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>Try clicking the bad option. I dare you. 😏</strong></p>
+  <p><strong>Two options. Only one works. Choose carefully. 🎯</strong></p>
   <br/>
-  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20Trust%20Me-00D4FF?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20Click%20Me-00D4FF?style=for-the-badge&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/❌%20~~Click%20Me~~%20(nice%20try)-2B2B2B?style=for-the-badge&logoColor=666666"/>
   <br/><br/>
-  <p><em>(spoiler: it never stays still. some things you just can't catch 🏃‍♂️💨)</em></p>
+  <p><em>(the grey one isn't a link. it never was. it's just there to judge you 👀)</em></p>
 </div>
 </details>
 
