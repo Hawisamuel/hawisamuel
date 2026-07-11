@@ -260,15 +260,15 @@
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>☕ Quick quiz: what language does Hawi prefer the most?</strong></p>
+  <p><strong>☕ Quick quiz: what language does Hawi love the most?</strong></p>
   <br/>
   <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdyM3A2OW5tYThjeW4xa2wxZTBrb2prbzNxc3AyNDRucm5kbW03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxPGLrfzBRV3CQKxF/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViNjFmZmNzOXBjdjkwczFqeWlwMXptbGtxZ3ppc2c5OGp0dW9yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JURd76FU0pwvkC0lQU/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0dGtzcXZ4Njl2d2tleHJycWx5dXQ2Y3gydDBvNGdqa2kybXBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LPQsHYioyIjVaIFOD/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtbHF6Nml4eHR6NXNuNTNmbjB4eTVycGxmem52bG84ZWVwdXZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ks6QHk9uhO543kLVHJ/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdyM3A2OW5tYThjeW4xa2wxZTBrb2prbzNxc3AyNDRucm5kbW03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxPGLrfzBRV3CQKxF/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0dGtzcXZ4Njl2d2tleHJycWx5dXQ2Y3gydDBvNGdqa2kybXBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LPQsHYioyIjVaIFOD/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtbHF6Nml4eHR6NXNuNTNmbjB4eTVycGxmem52bG84ZWVwdXZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ks6QHk9uhO543kLVHJ/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViNjFmZmNzOXBjdjkwczFqeWlwMXptbGtxZ3ppc2c5OGp0dW9yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JURd76FU0pwvkC0lQU/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBrNGJqdHg0ZW00ZHJ0dmVhOXIybWh5dmN3dXZ2dmhuM215Z2k1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip0ENynCvDmGsLqagC/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlybHVzcGdoaDlmOG16aXVpcXF4aGY1MTN1ZXZub2F2Nm1yOTJtaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wV2LWS2IPouNWSj1on/200.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlybHVzcGdoaDlmOG16aXVpcXF4aGY1MTN1ZXZub2F2Nm1yOTJtaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OOzlh4LOZMZOCOpfuQ/200.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
   <br/><br/>
   <p><em>(click one and find out ☝️)</em></p>
 </div>
