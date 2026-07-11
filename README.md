@@ -257,16 +257,16 @@
 ---
 
 <details>
-<summary><strong>🕵️ Psst... wanna know a secret? (choose wisely)</strong></summary>
+<summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>Pick a button. Choose your fate. 😈</strong></p>
+  <p><strong>Try clicking the bad option. I dare you. 😏</strong></p>
   <br/>
-  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20The%20Good%20Option-00D4FF?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20Trust%20Me-00D4FF?style=for-the-badge&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/😏%20The%20Sus%20Option-FF6B00?style=for-the-badge&logoColor=white"/></a>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" style="vertical-align:middle;"/>
   <br/><br/>
-  <p><em>(one of these leads somewhere real. the other one... doesn't. good luck 🎲)</em></p>
+  <p><em>(spoiler: it never stays still. some things you just can't catch 🏃‍♂️💨)</em></p>
 </div>
 </details>
 
