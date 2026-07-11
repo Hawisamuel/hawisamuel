@@ -1,0 +1,44 @@
+<svg width="360" height="90" viewBox="0 0 360 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundClip">
+      <rect x="40" y="20" width="280" height="50" rx="25"/>
+    </clipPath>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="90" fill="#0D1117"/>
+
+  <!-- pulsing cyan halo behind the card -->
+  <rect x="40" y="20" width="280" height="50" rx="25" fill="#00D4FF" filter="url(#glow)" opacity="0.35">
+    <animate attributeName="opacity" values="0.2;0.65;0.2" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- rounded gradient border card -->
+  <rect x="40" y="20" width="280" height="50" rx="25" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- live counter, clipped into the rounded shape -->
+  <g clip-path="url(#roundClip)">
+    <image href="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile+Views&color=0D1117&labelColor=0D1117&style=flat-square" x="30" y="14" width="300" height="62" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <!-- little sparkle accents -->
+  <circle cx="35" cy="25" r="2" fill="#00E5FF">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="328" cy="65" r="2.5" fill="#00E5FF">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
