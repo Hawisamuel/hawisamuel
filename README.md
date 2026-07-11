@@ -257,16 +257,18 @@
 ---
 
 <details>
+<details>
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>Two options. Only one works. Choose carefully. 🎯</strong></p>
+  <p><strong>☕ Quick quiz: what language does Hawi love the most?</strong></p>
   <br/>
-  <a href="https://github.com/hawisamuel"><img src="https://img.shields.io/badge/✅%20Click%20Me-00D4FF?style=for-the-badge&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/❌%20~~Click%20Me~~%20(nice%20try)-2B2B2B?style=for-the-badge&logoColor=666666"/>
+  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://giphy.com/gifs/starbucks-coffee-cheers-holiday-FY8lHvdsT68NcXqPNe"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://giphy.com/gifs/meganbatoon-nope-wrong-answer-VEu2A22WVrTug2la7V"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <br/><br/>
-  <p><em>(the grey one isn't a link. it never was. it's just there to judge you 👀)</em></p>
+  <p><em>(click one and find out ☝️)</em></p>
 </div>
 </details>
 
