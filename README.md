@@ -260,7 +260,7 @@
 <summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <p><strong>☕ Quick quiz: what language does Hawi love the most?</strong></p>
+  <p><strong>☕ Quick quiz: what language does Hawi prefer the most?</strong></p>
   <br/>
   <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdyM3A2OW5tYThjeW4xa2wxZTBrb2prbzNxc3AyNDRucm5kbW03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxPGLrfzBRV3CQKxF/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0dGtzcXZ4Njl2d2tleHJycWx5dXQ2Y3gydDBvNGdqa2kybXBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LPQsHYioyIjVaIFOD/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
