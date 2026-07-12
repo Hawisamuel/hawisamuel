@@ -1,3 +1,4 @@
+
 <!--
   ██╗  ██╗ █████╗ ██╗    ██╗██╗
   ██║  ██║██╔══██╗██║    ██║██║
@@ -6,6 +7,10 @@
   ██║  ██║██║  ██║╚███╔███╔╝██║
   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝
 -->
+<!-- PROFILE VIEWS -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=hawisamuel&label=Profile+Views&color=777BB4&style=for-the-badge&labelColor=0D1117" height="35"/>
+</div>
 
 <!-- DYNAMIC HEADER -->
 <div align="center">
@@ -181,9 +186,6 @@
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=hawisamuel&label=👀%20Profile%20Views&color=FF7518&style=for-the-badge" />
-
 </div>
 
 ---
@@ -257,23 +259,20 @@
 ---
 
 <details>
-<summary><strong>🎮 Easter Egg: Click to reveal a secret message</strong></summary>
+<summary><strong>🕵️ Psst... wanna know a secret?</strong></summary>
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+  <p><strong>☕ Quick quiz: what language does Hawi prefer the most?</strong></p>
   <br/>
-  <p>
-    <strong>🎉 Congratulations! You found the secret!</strong>
-  </p>
-  <p>
-    <em>"The best way to predict the future is to create it." — Peter Drucker</em>
-  </p>
-  <p>
-    Thank you for taking the time to explore my profile! 🚀
-  </p>
-  <p>
-    <strong>Three skills. One mission: Creating technology that works seamlessly and securely. 🔐</strong>
-  </p>
+  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdyM3A2OW5tYThjeW4xa2wxZTBrb2prbzNxc3AyNDRucm5kbW03cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxPGLrfzBRV3CQKxF/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0dGtzcXZ4Njl2d2tleHJycWx5dXQ2Y3gydDBvNGdqa2kybXBxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LPQsHYioyIjVaIFOD/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NtbHF6Nml4eHR6NXNuNTNmbjB4eTVycGxmem52bG84ZWVwdXZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ks6QHk9uhO543kLVHJ/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViNjFmZmNzOXBjdjkwczFqeWlwMXptbGtxZ3ppc2c5OGp0dW9yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JURd76FU0pwvkC0lQU/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBrNGJqdHg0ZW00ZHJ0dmVhOXIybWh5dmN3dXZ2dmhuM215Z2k1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip0ENynCvDmGsLqagC/giphy.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlybHVzcGdoaDlmOG16aXVpcXF4aGY1MTN1ZXZub2F2Nm1yOTJtaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wV2LWS2IPouNWSj1on/200.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlybHVzcGdoaDlmOG16aXVpcXF4aGY1MTN1ZXZub2F2Nm1yOTJtaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OOzlh4LOZMZOCOpfuQ/200.gif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>
+  <br/><br/>
+  <p><em>(click one and find out ☝️)</em></p>
 </div>
 </details>
 
